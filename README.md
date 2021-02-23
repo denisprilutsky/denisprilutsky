@@ -28,6 +28,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
    <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
    <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
    <br />
    <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
